@@ -110,7 +110,7 @@ stage controller is a YLP-09V Plug. Thus we want to connect our triple splitter 
 signal coming out of the panel connectors. 
 
 We can also infer the position of the connectors from these pictures, as well as this one which details which color is
-connected to which panel. 
+connected to which panel.  
 <img src="./Photos/smx-stage-colors.png" width="200" alt="SMX Stage Colors">
 
 Now, at this point we have a small issue that we will need to document so we can be sure we are connecting the right

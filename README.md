@@ -21,7 +21,7 @@ You can see a video of the finished product (The LED Arrows Behind Me) Here: htt
 
 # Steps
 
-1. [3D print models and combine](./3D Prints/README.md)
+1. [3D print models and combine](./3D%20Prints/README.md)
 2. [Oder and populate the PCB](./Circuit/README.md)
 3. [Wire necessary cables](./Wiring/README.md)
 4. [Putting it all together](./Finishing/README.md)
