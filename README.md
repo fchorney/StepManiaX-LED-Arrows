@@ -2,6 +2,8 @@
 The goal of this project is to create 5 3D printed arrows with LEDs in them connected
 to your StepManiaX (SMX) stage to mirror the steps that you are stepping.
 
+<img src="./cover-pic.png" width="500" alt="Cover Image">
+
 This project requires:
 - 3D Printing
 - Soldering
