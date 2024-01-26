@@ -27,14 +27,10 @@ wires to the arrows, making a splitter for the SMX Data lines, and connecting it
 - [SXH-001T-P0.6N JST XH-Series Crimp Socket](https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SXH-001T-P0-6N/7041446)
 
 # Tools & Other
-- [12v 7A DC Power Supply](https://www.aliexpress.us/item/1005006333977811.html) 
 - [SN-28B Pin Socket Terminal Crimper](https://www.amazon.ca/Terminal-Crimping-Ratchet-Crimper-Connector/dp/B075NY2YM6/ref=sr_1_12)
 - [Insulated Wire Terminal Crimper](https://www.amazon.ca/gp/product/B01IQIALJC/ref=ppx_yo_dt_b_search_asin_title)
 - [Fork/Spade Terminal Kit](https://www.amazon.ca/Twidec-Insulated-Connectors-Assortment-N-021-250PCS/dp/B0BB25LSF2/ref=sr_1_4)
-- [HSC8 6-4 Ferrule Crimper](https://www.amazon.ca/gp/product/B08CXT9Y8L/ref=ppx_yo_dt_b_search_asin_title)
-- [Ferrule Terminal Kit](https://www.amazon.ca/Lytool-Insulated-Connectors-Terminals-Single-Line/dp/B0BY2CS16J/ref=sr_1_8)
 - [Heat Shrink Tubing](https://www.amazon.ca/Wirefy-180-Heat-Shrink-Tubing/dp/B084GDLSCK/ref=sr_1_5)
-- [0.5 Inch Braided Cable Sleeves](https://www.amazon.ca/Pack-33ft-Protector-Expandable-Sleeving/dp/B07ZT9PL72/ref=sr_1_12)
 - Small Pliers
 - Cable Snips
 - Soldering Station
@@ -49,11 +45,6 @@ other websites as well.
 - You will need to determine the length of your wiring needs.
 - For the LED strips, I found that the arrows used 12 sections of 3 LEDs each, and the center panel used 13 sections
 of 3 LEDs each.
-- For the 12v power supply, you won't need 7A for just one pad. It's up to you to figure out how many amps you'll need
-based on how many LEDs you are powering. 
-- For the hookup wire, I opted to use a thicker AWG for going from the circuit board to the LEDs as the distance
-travelled is fairly long and I figured a thicker cable would be better in that case. From what I've read, 22 AWG
-should realistically be more than enough to carry about 1A of power to each arrow.
 - If you can't source 6 and/or 9 core cable, you can just use loose hookup cable.
 
 ### JST YL-Series
@@ -75,6 +66,8 @@ The tl;dr for this would be:
 - Prep your LED strips by cutting them to size, applying solder to the contacts, and wiring them up
 - Super glue the LED strips into the arrow bodies as shown in the video
 - Solder the JST-SM connectors to the LED strips (the video shows Dupont)
+  - You can use either the male or female JST-SM connectors here, just be sure to use the opposite for the `finishing`
+section.
 
 At this point you are done with the arrows **for now**. 
 
