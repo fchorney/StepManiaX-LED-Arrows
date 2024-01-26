@@ -69,14 +69,14 @@ and let chat spend points/bits/etc to control the arrows
   - We can maybe man in the middle this to figure it out, and actually light our arrows the color the game tells us to.
 
 # Special Thanks
-Big thanks to [Step Revolution](https://www.steprevolution.com/) for making a super fun game and being cool with me
-making this kind of stuff.
+Big thanks to the [Step Revolution](https://www.steprevolution.com/) crew for making a super fun game, being cool with me
+making this kind of stuff, and even helping me out with some aspects of it.
 
 Thanks to [Daaanty](https://www.twitch.tv/daaanty) for giving me some great ideas for the arrow models as well as helping
 me track down some of the harder to find connectors. 
 
 Thanks to Cube for making this helpful [SMX Pad to Andamiro Cabinet](https://docs.google.com/document/d/1XnCEbnF3oVle8vsj_GakjsSuEs43jKPMqEG-YfRb-IE/edit#heading=h.98pnc1v5ryli)
-guide which helped me confirm some wiring 
+guide which helped me confirm some wiring.
 
 Make sure to check out the [Official StepManiaX Discord](https://discord.gg/stepmaniax-430779485026254848) where you
 can find a lot of us chatting about SMX and talking about fun projects like this!
