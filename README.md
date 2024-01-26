@@ -19,7 +19,8 @@ completed in a number of ways and this is just one.
 I will apologize in advance as I have not taken a lot of pictures of this process, but I will
 do my best to relay everything I can in Text.
 
-You can see a video of the finished product (The LED Arrows Behind Me) Here: https://www.youtube.com/watch?v=8-Bkg70dLgw
+You can see a video of the finished product (The LED Arrows Behind Me) Here:
+[![Finished Product Example](http://img.youtube.com/vi/8-Bkg70dLgw/0.jpg)](https://www.youtube.com/watch?v=8-Bkg70dLgw)
 
 # Steps
 
