@@ -1,4 +1,4 @@
-# StepManiaX LED Mirror Project
+# StepManiaX LED Mirroring Project
 The goal of this project is to create 5 3D printed arrows with LEDs in them connected
 to your StepManiaX (SMX) stage to mirror the steps that you are stepping.
 
