@@ -69,6 +69,12 @@ and let chat spend points/bits/etc to control the arrows
   - Theoretically when you hit a panel, it tells the game you hit it and the game judges you and sends back the judgement.
   - We can maybe man in the middle this to figure it out, and actually light our arrows the color the game tells us to.
 
+# Donate
+If you appreciate my work and would like to buy me a coffee, I would very much appreciate it. Donations are always welcome,
+but never necessary.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D1RGGQN)
+
 # Special Thanks
 Big thanks to the [Step Revolution](https://www.steprevolution.com/) crew for making a super fun game, being cool with me
 making this kind of stuff, and even helping me out with some aspects of it.
